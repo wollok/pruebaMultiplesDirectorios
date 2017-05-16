@@ -1,0 +1,11 @@
+//import model.armas.*
+
+//test "test con arma" {
+//	const arma = new armas.Arma()
+//	assert.that(true)
+//}
+
+test "thor pelea duro" {
+	const thor = new armas.Guerrero()
+	assert.that(true)	
+}
